@@ -18,7 +18,7 @@ Welcome to Battery Tracker! This manual will guide you through the installation,
 
 To install Battery Tracker, follow these steps:
 
-make script to exe file = pyinstaller Sorting.py --onefile --noconsole --icon=bt.ico No installation is required to use the Sorting Application. Simply run the executable file on your operating system
+make script to exe file = pyinstaller Battery-Tracker.py --onefile --noconsole --icon=bt.ico No installation is required to use the Sorting Application. Simply run the executable file on your operating system
 
 - No installation is required. The Sorting Application is an executable (`.exe`) file that can be run directly on your operating system.
 
