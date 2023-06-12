@@ -18,7 +18,7 @@ Battery Tracker is a desktop application that helps you track the battery status
 
 ## Manual
 
-For detailed instructions on how to use the Battery Tracker application, please refer to the [Battery Tracker Manual](manual.md).
+For detailed instructions on how to use the Battery Tracker application, please refer to the [Battery Tracker Manual](Manual.md).
 
 ## About
 
