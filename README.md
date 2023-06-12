@@ -1,51 +1,29 @@
 # Battery-Tracker-Application
-Battery Tracker is a desktop application that monitors and displays real-time battery status information. It tracks battery percentage, charging status, and usage time. Users can reset timers, enable/disable notifications, and minimize the app to the system tray. It provides a user-friendly interface with a table view and control buttons.
+Battery Tracker is a user-friendly Windows desktop app that provides real-time battery status and usage information. Monitor battery health, track charging cycles, and optimize performance. Get insights on power consumption, receive customizable notifications, and generate detailed reports to make informed decisions and extend battery life. Simplify battery management and enhance your computing experience with Battery Tracker.
 
 
 # Battery Tracker
 
-Battery Tracker is a desktop application that monitors and displays real-time battery status information. It provides users with valuable insights into their device's battery health, charging status, and usage time. This README file serves as a guide to installing, running, and using the Battery Tracker application effectively.
+Battery Tracker is a desktop application that helps you track the battery status of your Windows device and monitor battery usage over time. It provides real-time updates, usage statistics, and helpful notifications.
 
 ## Features
 
-Battery Tracker offers the following features:
+- Real-time battery status updates
+- Battery usage statistics
+- Battery care notifications
+- Manual control over brightness level
+- System tray support for easy access
+- Reset options for different statistics
+- About and Help sections for additional information
 
-1. Battery Status Monitoring: The application continuously monitors the battery status, including the battery percentage, charging status (plugged in or not), and estimated usage time remaining.
+## Manual
 
-2. Real-time Updates: Battery Tracker provides real-time updates, ensuring that users have access to the most up-to-date battery information.
+For detailed instructions on how to use the Battery Tracker application, please refer to the [Battery Tracker Manual](manual.md).
 
-3. Reset Timers: Users can reset the usage time timer to monitor the battery usage for a specific period.
+## About
 
-4. Notifications: Battery Tracker can notify users when the battery percentage reaches a certain threshold or when the battery is fully charged. Users can enable or disable these notifications based on their preferences.
-
-5. System Tray Integration: The application can be minimized to the system tray, allowing users to access battery information quickly without cluttering their desktop.
-
-6. User-friendly Interface: Battery Tracker features a clean and intuitive user interface with a table view displaying the battery status and control buttons for easy navigation.
-
-## Installation
-
-make script to exe file = pyinstaller Battery-Tracker.py --onefile --noconsole --icon=bt.ico No installation is required to use the Sorting Application. Simply run the executable file on your operating system
-
-## Usage
-
-1. Upon launching the Battery Tracker application, the battery status information will be displayed in the main window.
-
-2. The table view provides details such as battery percentage, charging status, and estimated usage time remaining.
-
-3. To reset the usage time, click on the "Reset Timer" button.
-
-4. To enable or disable notifications, access the settings menu and adjust the notification preferences accordingly.
-
-5. To minimize the application to the system tray, click on the minimize button. Clicking on the Battery Tracker icon in the system tray will restore the application.
-
-## Support and Issues
-
-For any issues, bug reports, or feature requests, please visit the official Battery Tracker repository on GitHub. You can create a new issue describing the problem or search through existing issues for possible solutions.
+Battery Tracker is developed by Sparky and is part of the SPARKS company. For further inquiries or support, you can contact Sparky via Discord (Sparky#2273) or Telegram (Sparky2273).
 
 ## License
 
-Battery Tracker is released under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the LICENSE file included with the application for more details.
-
-## Acknowledgements
-
-Battery Tracker was developed using various open-source libraries and resources. The application is grateful for the contributions of the open-source community.
+This project is licensed under the [MIT License](LICENSE).
